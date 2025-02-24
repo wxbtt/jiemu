@@ -3,6 +3,7 @@
 
 https://raw.githubusercontent.com/skey521/iptv-api/master/output/iptv.txt
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+https://raw.githubusercontent.com/xmbjm/TV/master/output/user_result.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 https://github.com/gitgordon85/Gordon85_IPTV/raw/refs/heads/master/output/result.txt
 https://raw.githubusercontent.com/Cx4x/xd/refs/heads/master/output/user_result.txt

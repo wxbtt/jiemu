@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-02-28 06:36:17,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv1
+2025-02-28 18:34:01,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv1
 
 央视频道,#genre#
 CCTV1,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv1
@@ -9,8 +9,8 @@ CCTV1,https://tvpull.careryun.com/tv/cctv1.m3u8
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV1,http://tvbox6.icu/tv/migu.php?id=cctv1
 CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
-CCTV1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 CCTV1,https://hyf.serv00.net/fg/CCTV1.php
+CCTV1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 CCTV1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2328&tk=a0c4f6cfaba3
 CCTV1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV1,http://www.7891136.xyz
@@ -37,19 +37,19 @@ CCTV3,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9659&tk=a0c4f6cfaba3
 CCTV3,http://www.7891136.xyz
 CCTV3,http://111.9.163.109
 CCTV3,https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
-CCTV3,http://app.baiyels.com
+CCTV3,http://www.aadii.top
 CCTV4,http://j.x.bkpcp.top/jx/CCTV4HD
 CCTV4,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv4
 CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4o
 CCTV4,http://tvpull.careryun.com/tv/cctv4.m3u8
 CCTV4,http://php.jdshipin.com
+CCTV4,http://goo.bkpcp.top/mg/cctv4
 CCTV4,http://tvbox6.icu/tv/migu.php?id=cctv4a
 CCTV4,https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8
 CCTV4,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9684&tk=a0c4f6cfaba3
 CCTV4,http://www.7891136.xyz
 CCTV4,http://111.9.163.109
 CCTV4,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
-CCTV4,http://app.baiyels.com
 CCTV5,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv5
 CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV5,http://goo.bkpcp.top/mg/cctv5
@@ -61,7 +61,7 @@ CCTV5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3713&tk=a0c4f6cfaba3
 CCTV5,http://www.7891136.xyz
 CCTV5,http://111.9.163.109
 CCTV5,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
-CCTV5,http://app.baiyels.com
+CCTV5,http://www.aadii.top
 CCTV5+,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv5p
 CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p⁭
 CCTV5+,http://goo.bkpcp.top/mg/cctv5p
@@ -72,8 +72,8 @@ CCTV5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 CCTV5+,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6216&tk=a0c4f6cfaba3
 CCTV5+,http://www.7891136.xyz
 CCTV5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
-CCTV5+,http://app.baiyels.com
 CCTV5+,http://www.aadii.top
+CCTV5+,http://205.185.120.154
 CCTV6,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv6
 CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV6,http://cdn.jdshipin.com
@@ -96,8 +96,8 @@ CCTV7,https://api.olelive.com/dis/live/CCTV7HD/hls.m3u8
 CCTV7,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7285&tk=a0c4f6cfaba3
 CCTV7,http://www.7891136.xyz
 CCTV7,https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
-CCTV7,http://app.baiyels.com
 CCTV7,http://www.aadii.top
+CCTV7,http://205.185.120.154
 CCTV8,http://j.x.bkpcp.top/jx/CCTV8HD
 CCTV8,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv8
 CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
@@ -133,7 +133,7 @@ CCTV10,https://api.olelive.com/dis/live/CCTV10HD/hls.m3u8
 CCTV10,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2043&tk=a0c4f6cfaba3
 CCTV10,http://www.7891136.xyz
 CCTV10,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
-CCTV10,http://app.baiyels.com
+CCTV10,http://www.aadii.top
 CCTV11,http://j.x.bkpcp.top/jx/CCTV11HD
 CCTV11,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv11
 CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
@@ -145,7 +145,7 @@ CCTV11,https://api.olelive.com/dis/live/CCTV11HD/hls.m3u8
 CCTV11,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3572&tk=a0c4f6cfaba3
 CCTV11,http://www.7891136.xyz
 CCTV11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
-CCTV11,http://app.baiyels.com
+CCTV11,http://www.aadii.top
 CCTV12,http://j.x.bkpcp.top/jx/CCTV12HD
 CCTV12,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv12
 CCTV12,http://goo.bkpcp.top/mg/cctv12
@@ -157,7 +157,7 @@ CCTV12,https://api.olelive.com/dis/live/CCTV12HD/hls.m3u8
 CCTV12,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5054&tk=a0c4f6cfaba3
 CCTV12,http://www.7891136.xyz
 CCTV12,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
-CCTV12,http://app.baiyels.com
+CCTV12,http://www.aadii.top
 CCTV13,http://j.x.bkpcp.top/jx/CCTV13HD
 CCTV13,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv13
 CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
@@ -169,7 +169,7 @@ CCTV13,https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
 CCTV13,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1486&tk=a0c4f6cfaba3
 CCTV13,http://www.7891136.xyz
 CCTV13,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
-CCTV13,http://app.baiyels.com
+CCTV13,http://www.aadii.top
 CCTV14,http://j.x.bkpcp.top/jx/CCTV14HD
 CCTV14,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv14
 CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
@@ -181,7 +181,7 @@ CCTV14,https://api.olelive.com/dis/live/CCTV14HD/hls.m3u8
 CCTV14,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9735&tk=a0c4f6cfaba3
 CCTV14,http://www.7891136.xyz
 CCTV14,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
-CCTV14,http://app.baiyels.com
+CCTV14,http://www.aadii.top
 CCTV15,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv15
 CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV15,http://goo.bkpcp.top/mg/cctv15
@@ -192,8 +192,8 @@ CCTV15,https://api.olelive.com/dis/live/CCTV15HD/hls.m3u8
 CCTV15,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8960&tk=a0c4f6cfaba3
 CCTV15,http://www.7891136.xyz
 CCTV15,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
-CCTV15,http://app.baiyels.com
 CCTV15,http://www.aadii.top
+CCTV15,http://205.185.120.154
 CCTV16,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv16
 CCTV16,http://z.b.bkpcp.top/m.php?id=cctv16
 CCTV16,http://goo.bkpcp.top/mg/cctv16
@@ -201,11 +201,11 @@ CCTV16,http://php.jdshipin.com
 CCTV16,https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8
 CCTV16,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2560&tk=a0c4f6cfaba3
 CCTV16,http://www.7891136.xyz
-CCTV16,http://139.129.231.228
 CCTV16,http://120.55.49.231
 CCTV16,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
-CCTV16,http://app.baiyels.com
 CCTV16,http://www.aadii.top
+CCTV16,http://205.185.120.154
+CCTV16,http://xxx.504900.xyz
 CCTV17,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv17
 CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17\
 CCTV17,http://goo.bkpcp.top/mg/cctv17
@@ -216,8 +216,8 @@ CCTV17,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
 CCTV17,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9059&tk=a0c4f6cfaba3
 CCTV17,http://www.7891136.xyz
 CCTV17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
-CCTV17,http://app.baiyels.com
 CCTV17,http://www.aadii.top
+CCTV17,http://205.185.120.154
 CCTV4K,http://php.jdshipin.com/bestv.php?id=cctv4k/15000000
 CCTV4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0389&tk=a0c4f6cfaba3
 CCTV4K,https://www.yangshipin.cn/tv/home?pid=600002264###WEB\\n
@@ -226,36 +226,30 @@ CCTV-4K,http://php.jdshipin.com/bestv.php?id=cctv4k/15000000
 CCTV-4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0389&tk=a0c4f6cfaba3
 CCTV-4K,https://www.yangshipin.cn/tv/home?pid=600002264###WEB\\n
 CCTV-4K,http://iptv.0564.org
-CETV1,http://139.129.231.228/rtp/239.21.2.7:5002
-CETV1,http://123.56.129.203
+CETV1,http://122.9.151.210
 CETV1,http://120.55.49.231
 CETV1,https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8
-CETV1,http://122.9.151.210
 CETV1,http://xxx.504900.xyz
-CETV2,http://139.129.231.228/rtp/239.21.2.8:5002
-CETV2,http://123.56.129.203
-CETV2,https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
 CETV2,http://122.9.151.210
+CETV2,https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
 CETV4,http://php.jdshipin.com
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
-CETV4,http://123.56.129.203
+CETV4,http://122.9.151.210
 CETV4,http://120.55.49.231
 CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
-CETV4,http://122.9.151.210
 CETV4,http://xxx.504900.xyz
 CCTV4欧洲,http://j.x.bkpcp.top/jx/CCTV4HD
 CCTV4欧洲,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv4
 CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
 CCTV4欧洲,http://tvpull.careryun.com/tv/cctv4.m3u8
 CCTV4欧洲,http://php.jdshipin.com
+CCTV4欧洲,http://goo.bkpcp.top/mg/cctv4
 CCTV4欧洲,http://tvbox6.icu/tv/migu.php?id=cctv4a
 CCTV4欧洲,https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8
 CCTV4欧洲,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9684&tk=a0c4f6cfaba3
 CCTV4欧洲,http://www.7891136.xyz
 CCTV4欧洲,http://111.9.163.109
 CCTV4欧洲,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
-CCTV4欧洲,http://app.baiyels.com
 CCTV阿拉伯语,http://z.b.bkpcp.top/m.php?id=cgtna
 CCTV阿拉伯语,http://tvbox6.icu/tv/migu.php?id=cgtna
 CCTV阿拉伯语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5745&tk=a0c4f6cfaba3
@@ -292,8 +286,8 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 中学生,http://php.jdshipin.com/cqyx.php?id=qicai
 中学生,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0864&tk=a0c4f6cfaba3
 法治天地,http://139.196.214.238/rtp/239.45.1.46:5140
-法治天地,http://120.55.49.231
 法治天地,http://139.196.151.191/rtp/239.45.1.46:5140
+法治天地,http://120.55.49.231
 
 全国卫视,#genre#
 湖北卫视,http://j.x.bkpcp.top/jx/HUBEIHD
@@ -303,11 +297,11 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 湖北卫视,http://tvbox6.icu/tv/migu.php?id=hubws
 湖北卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hubei/playlist.m3u8
 湖北卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1923&tk=a0c4f6cfaba3
-湖北卫视,https://www.yangshipin.cn/tv/home?pid=600002508###WEB\\n
 湖北卫视,http://www.7891136.xyz
-湖北卫视,http://app.baiyels.com
+湖北卫视,https://www.yangshipin.cn/tv/home?pid=600002508###WEB\\n
 湖北卫视,http://www.aadii.top
 湖北卫视,http://205.185.120.154
+湖北卫视,http://xxx.504900.xyz
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
 湖南卫视,http://j.x.bkpcp.top/jx/HUNANHD
 湖南卫视,http://tvpull.careryun.com/tv/cn_hunws.m3u8
@@ -316,10 +310,10 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 湖南卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hunan_twn/playlist.m3u8
 湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 湖南卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9117&tk=a0c4f6cfaba3
-湖南卫视,https://www.yangshipin.cn/tv/home?pid=600002475###WEB\\n
 湖南卫视,http://www.7891136.xyz
-湖南卫视,http://app.baiyels.com
+湖南卫视,https://www.yangshipin.cn/tv/home?pid=600002475###WEB\\n
 湖南卫视,http://www.aadii.top
+湖南卫视,http://205.185.120.154
 北京卫视,http://j.x.bkpcp.top/jx/BEIJHD
 北京卫视,http://cdn.jdshipin.com
 北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
@@ -327,22 +321,22 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
 北京卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/beijing/playlist.m3u8
 北京卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9226&tk=a0c4f6cfaba3
-北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309###WEB\\n
 北京卫视,http://www.7891136.xyz
-北京卫视,http://app.baiyels.com
+北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309###WEB\\n
 北京卫视,http://www.aadii.top
 北京卫视,http://205.185.120.154
+北京卫视,http://xxx.504900.xyz
 浙江卫视,http://goo.bkpcp.top/mg/zjws
 浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8###HLS\\n
 浙江卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/zhejiang_twn/playlist.m3u8
 浙江卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6595&tk=a0c4f6cfaba3
-浙江卫视,https://www.yangshipin.cn/tv/home?pid=600002520###WEB\\n
 浙江卫视,http://www.7891136.xyz
-浙江卫视,http://app.baiyels.com
+浙江卫视,https://www.yangshipin.cn/tv/home?pid=600002520###WEB\\n
 浙江卫视,http://www.aadii.top
 浙江卫视,http://205.185.120.154
+浙江卫视,http://app.baiyels.com
 浙江卫视,http://iptv.0564.org
 山东卫视,http://j.x.bkpcp.top/jx/SHANDHD
 山东卫视,http://z.b.bkpcp.top/m.php?id=sdws
@@ -352,32 +346,32 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 山东卫视,http://tvbox6.icu/tv/migu.php?id=sdws
 山东卫视,https://hyf.serv00.net/fg/山东卫视.php
 山东卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4622&tk=a0c4f6cfaba3
-山东卫视,https://www.yangshipin.cn/tv/home?pid=600002513###WEB\\n
 山东卫视,http://www.7891136.xyz
+山东卫视,https://www.yangshipin.cn/tv/home?pid=600002513###WEB\\n
 山东卫视,http://139.196.214.238/rtp/239.45.3.238:5140
-山东卫视,http://app.baiyels.com
+山东卫视,http://www.aadii.top
 天津卫视,http://j.x.bkpcp.top/jx/TIANJHD
 天津卫视,http://cdn.jdshipin.com
 天津卫视,http://tvpull.careryun.com/tv/cn_tjws.m3u8
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
 天津卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4182&tk=a0c4f6cfaba3
 天津卫视,http://www.7891136.xyz
-天津卫视,http://app.baiyels.com
 天津卫视,http://www.aadii.top
 天津卫视,http://205.185.120.154
 天津卫视,http://xxx.504900.xyz
+天津卫视,http://app.baiyels.com
 天津卫视,http://iptv.0564.org
 天津卫视,http://api2.52tb.xyz/info?id=26&token=20230326xflvzc
 深圳卫视,http://tvpull.careryun.com/tv/cn_szws.m3u8
 深圳卫视,http://z.b.bkpcp.top/m.php?id=szws
 深圳卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/shenzhen/playlist.m3u8
 深圳卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2909&tk=a0c4f6cfaba3
-深圳卫视,https://www.yangshipin.cn/tv/home?pid=600002481###WEB\\n
 深圳卫视,http://www.7891136.xyz
-深圳卫视,http://app.baiyels.com
+深圳卫视,https://www.yangshipin.cn/tv/home?pid=600002481###WEB\\n
 深圳卫视,http://www.aadii.top
 深圳卫视,http://205.185.120.154
 深圳卫视,http://xxx.504900.xyz
+深圳卫视,http://app.baiyels.com
 深圳卫视,http://iptv.0564.org
 深圳卫视,http://api3.52tb.xyz/info?id=28&token=20230227aesvnb
 重庆卫视,http://j.x.bkpcp.top/jx/CHONGQHD
@@ -387,11 +381,11 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
 重庆卫视,http://tvbox6.icu/tv/migu.php?id=cqws
 重庆卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7530&tk=a0c4f6cfaba3
-重庆卫视,https://www.yangshipin.cn/tv/home?pid=600002531###WEB\\n
 重庆卫视,http://www.7891136.xyz
+重庆卫视,https://www.yangshipin.cn/tv/home?pid=600002531###WEB\\n
 重庆卫视,http://139.196.214.238/rtp/239.45.1.84:5140
-重庆卫视,http://app.baiyels.com
 重庆卫视,http://www.aadii.top
+重庆卫视,http://205.185.120.154
 东方卫视,http://tvpull.careryun.com/tv/dfws.m3u8
 东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
 东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345
@@ -399,9 +393,9 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 东方卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/dongfangweishi_twn/playlist.m3u8
 东方卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6000&tk=a0c4f6cfaba3
 东方卫视,https://www.yangshipin.cn/tv/home?pid=600002483###WEB\\n
-东方卫视,http://app.baiyels.com
 东方卫视,http://205.185.120.154
 东方卫视,http://xxx.504900.xyz
+东方卫视,http://app.baiyels.com
 东方卫视,http://iptv.0564.org
 东方卫视,http://api2.52tb.xyz/info?id=24&token=20230326xflvzc
 安徽卫视,http://j.x.bkpcp.top/jx/ANHUIHD
@@ -409,12 +403,12 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 安徽卫视,http://z.b.bkpcp.top/m.php?id=ahws
 安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
 安徽卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1678&tk=a0c4f6cfaba3
-安徽卫视,https://www.yangshipin.cn/tv/home?pid=600002532###WEB\\n
 安徽卫视,http://www.7891136.xyz
-安徽卫视,http://app.baiyels.com
+安徽卫视,https://www.yangshipin.cn/tv/home?pid=600002532###WEB\\n
 安徽卫视,http://www.aadii.top
 安徽卫视,http://205.185.120.154
 安徽卫视,http://xxx.504900.xyz
+安徽卫视,http://app.baiyels.com
 安徽卫视,http://iptv.0564.org
 东南卫视,http://j.x.bkpcp.top/jx/DONGNHD
 东南卫视,http://z.b.bkpcp.top/m.php?id=dnws
@@ -423,9 +417,9 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 东南卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5983&tk=a0c4f6cfaba3
 东南卫视,https://www.yangshipin.cn/tv/home?pid=600002484###WEB\\n
 东南卫视,http://139.196.214.238/rtp/239.45.1.121:5140
-东南卫视,http://app.baiyels.com
 东南卫视,http://205.185.120.154
 东南卫视,http://xxx.504900.xyz
+东南卫视,http://app.baiyels.com
 东南卫视,http://117.72.68.25
 东南卫视,http://iptv.0564.org
 广东卫视,http://goo.bkpcp.top/mg/gdws
@@ -436,10 +430,10 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 广东卫视,http://tvbox6.icu/tv/migu.php?id=gdws
 广东卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/guangdongweishi_twn/playlist.m3u8
 广东卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8193&tk=a0c4f6cfaba3
-广东卫视,https://www.yangshipin.cn/tv/home?pid=600002485###WEB\\n
 广东卫视,http://www.7891136.xyz
-广东卫视,http://app.baiyels.com
+广东卫视,https://www.yangshipin.cn/tv/home?pid=600002485###WEB\\n
 广东卫视,http://www.aadii.top
+广东卫视,http://205.185.120.154
 贵州卫视,http://j.x.bkpcp.top/jx/GUIZHD
 贵州卫视,http://nn.7x9d.cn/小曾8563/酒店秒开.php?id=gzws
 贵州卫视,http://goo.bkpcp.top/mg/gzws
@@ -448,16 +442,15 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474
 贵州卫视,http://tvbox6.icu/tv/migu.php?id=gzws
 贵州卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9095&tk=a0c4f6cfaba3
-贵州卫视,https://www.yangshipin.cn/tv/home?pid=600002490###WEB\\n
 贵州卫视,http://www.7891136.xyz
+贵州卫视,https://www.yangshipin.cn/tv/home?pid=600002490###WEB\\n
 贵州卫视,http://139.196.214.238/rtp/239.45.1.80:5140
 贵州卫视,http://www.aadii.top
 河北卫视,http://tvpull.careryun.com/tv/hbws.m3u8
 河北卫视,http://z.b.bkpcp.top/m.php?id=hbws
-河北卫视,http://hls.hsrtv.cn/live/hbws.m3u8
 河北卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0169&tk=a0c4f6cfaba3
-河北卫视,https://www.yangshipin.cn/tv/home?pid=600002493###WEB\\n
 河北卫视,http://www.7891136.xyz
+河北卫视,https://www.yangshipin.cn/tv/home?pid=600002493###WEB\\n
 河北卫视,http://139.196.214.238/rtp/239.45.1.44:5140
 河北卫视,http://www.aadii.top
 河北卫视,http://api2.52tb.xyz/info?id=32&token=20230326xflvzc
@@ -467,8 +460,8 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 黑龙江卫视,http://php.jdshipin.com
 黑龙江卫视,https://hyf.serv00.net/fg/黑龙江卫视.php
 黑龙江卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2183&tk=a0c4f6cfaba3
-黑龙江卫视,https://www.yangshipin.cn/tv/home?pid=600002498###WEB\\n
 黑龙江卫视,http://www.7891136.xyz
+黑龙江卫视,https://www.yangshipin.cn/tv/home?pid=600002498###WEB\\n
 黑龙江卫视,http://139.196.214.238/rtp/239.45.3.232:5140
 黑龙江卫视,http://www.aadii.top
 黑龙江卫视,http://api2.52tb.xyz/info?id=41&token=20230326xflvzc
@@ -482,8 +475,8 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 吉林卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6306&tk=a0c4f6cfaba3
 吉林卫视,http://www.7891136.xyz
 吉林卫视,http://139.196.214.238/rtp/239.45.0.6:5140
-吉林卫视,http://139.129.231.228/rtp/239.21.2.49:5002
 吉林卫视,http://www.aadii.top
+吉林卫视,http://iptv.0564.org
 江苏卫视,http://nn.7x9d.cn/组播/咪咕视频.php?id=jsws
 江苏卫视,http://tvpull.careryun.com/tv/jsws.m3u8
 江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws#http://live.nctv.top/IQRy0ip/jstv5.php?id=jsws#http://tv.20191209.xyz:37377/migu/623899368.m3u8?migutoken=0c1255f44cf0460d401afd9fdc722c6398b97c5880dc9c45f00ae3faa4d208ecd6942cc08a2f3f09bac00b520297cc93d1b83c17d52ade00620508eae303d397c58e8b1deb59c8ac4158cd7d#http://goo.bkpcp.top/mg/jsws#http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EJT6eqtJpcKnNhyUS90EOgw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN1SxXwCt0S69Lq27ZMJpfR%2CEND#http://148.135.93.213:81/live.php?id=江苏卫视#http://114.105.98.95:37377/migu/623899368.m3u8?migutoken=0c1255f44cf0460d401afd9fdc722c6398b97c5880dc9c45f00ae3faa4d208ecd6942cc08a2f3f09bac00b520297cc93d1b83c17d52ade00620508eae303d397c58e8b1deb59c8ac4158cd7d#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5045&tk=a0c4f6cfaba3#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5053&tk=a0c4f6cfaba3#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4325&tk=a0c4f6cfaba3#http://58.220.219.14:9901/tsfile/live/0127_1.m3u8#http://218.3.138.25:1111/tsfile/live/1017_1.m3u8#http://218.3.138.25:1111/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0#http://home.wwang.pw:35455/itv/1000000005000265030.m3u8?cdn=ystenlive#http://itv.nctv.top:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
@@ -492,21 +485,21 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 江苏卫视,http://tvbox6.icu/tv/migu.php?id=jsws
 江苏卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jiangsu_twn/playlist.m3u8
 江苏卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2625&tk=a0c4f6cfaba3
-江苏卫视,https://www.yangshipin.cn/tv/home?pid=600002521###WEB\\n
 江苏卫视,http://www.7891136.xyz
-江苏卫视,http://app.baiyels.com
+江苏卫视,https://www.yangshipin.cn/tv/home?pid=600002521###WEB\\n
 江苏卫视,http://www.aadii.top
+江苏卫视,http://205.185.120.154
 江西卫视,http://tvpull.careryun.com/tv/jxws.m3u8
 江西卫视,http://z.b.bkpcp.top/m.php?id=jxws#http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPpe3gkzCutYMoqOQQZNzA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMVuW7agCgULnvgy9rhLyCH%2CEND#http://148.135.93.213:81/live.php?id=江西卫视#http://goo.bkpcp.top/mg/jxws#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9661&tk=a0c4f6cfaba3#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3763&tk=a0c4f6cfaba3
 江西卫视,http://goo.bkpcp.top/mg/jxws###HLS\\n
 江西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226344
 江西卫视,http://tvbox6.icu/tv/migu.php?id=jxws
 江西卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8366&tk=a0c4f6cfaba3
-江西卫视,https://www.yangshipin.cn/tv/home?pid=600002503###WEB\\n
 江西卫视,http://www.7891136.xyz
-江西卫视,http://app.baiyels.com
+江西卫视,https://www.yangshipin.cn/tv/home?pid=600002503###WEB\\n
 江西卫视,http://www.aadii.top
 江西卫视,http://205.185.120.154
+江西卫视,http://app.baiyels.com
 江西卫视,http://117.72.68.25
 辽宁卫视,http://j.x.bkpcp.top/jx/LIAONHD
 辽宁卫视,http://goo.bkpcp.top/mg/lnws
@@ -514,12 +507,12 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226546
 辽宁卫视,http://tvbox6.icu/tv/migu.php?id=lnws
 辽宁卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7944&tk=a0c4f6cfaba3
-辽宁卫视,https://www.yangshipin.cn/tv/home?pid=600002505###WEB\\n
 辽宁卫视,http://www.7891136.xyz
+辽宁卫视,https://www.yangshipin.cn/tv/home?pid=600002505###WEB\\n
 辽宁卫视,http://139.196.214.238/rtp/239.45.1.123:5140
-辽宁卫视,http://app.baiyels.com
 辽宁卫视,http://www.aadii.top
 辽宁卫视,http://205.185.120.154
+辽宁卫视,http://xxx.504900.xyz
 大湾区卫视,http://nn.7x9d.cn/组播/咪咕视频.php?id=dwqws
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws
 大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
@@ -532,7 +525,6 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 云南卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7313&tk=a0c4f6cfaba3
 云南卫视,http://www.7891136.xyz
 云南卫视,http://139.196.214.238/rtp/239.45.0.4:5140
-云南卫视,http://139.129.231.228/rtp/239.21.1.40:5002
 云南卫视,http://139.196.151.191/rtp/239.45.0.4:5140
 云南卫视,http://www.aadii.top
 云南卫视,http://api2.52tb.xyz/info?id=42&token=20230326xflvzc
@@ -541,8 +533,8 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 河南卫视,http://tvpull.careryun.com/tv/cn_hnws.m3u8
 河南卫视,http://tvbox6.icu/tv/migu.php?id=hnws
 河南卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5623&tk=a0c4f6cfaba3
-河南卫视,https://www.yangshipin.cn/tv/home?pid=600002525###WEB\\n
 河南卫视,http://www.7891136.xyz
+河南卫视,https://www.yangshipin.cn/tv/home?pid=600002525###WEB\\n
 河南卫视,http://www.aadii.top
 河南卫视,http://api3.52tb.xyz/info?id=31&token=20230227aesvnb
 河南卫视,http://api2.52tb.xyz/info?id=31&token=20230326xflvzc
@@ -554,8 +546,8 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 广西卫视,http://tvbox6.icu/tv/migu.php?id=gxws
 广西卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/guangxi/playlist.m3u8
 广西卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7377&tk=a0c4f6cfaba3
-广西卫视,https://www.yangshipin.cn/tv/home?pid=600002509###WEB\\n
 广西卫视,http://www.7891136.xyz
+广西卫视,https://www.yangshipin.cn/tv/home?pid=600002509###WEB\\n
 广西卫视,http://139.196.214.238/rtp/239.45.0.5:5140
 广西卫视,http://www.aadii.top
 四川卫视,http://j.x.bkpcp.top/jx/SICHD
@@ -564,8 +556,8 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 四川卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sichuan_twn/playlist.m3u8
 四川卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0402&tk=a0c4f6cfaba3
-四川卫视,https://www.yangshipin.cn/tv/home?pid=600002516###WEB\\n
 四川卫视,http://www.7891136.xyz
+四川卫视,https://www.yangshipin.cn/tv/home?pid=600002516###WEB\\n
 四川卫视,http://139.196.214.238/rtp/239.45.1.83:5140
 四川卫视,http://www.aadii.top
 四川卫视,http://api2.52tb.xyz/info?id=39&token=20230326xflvzc
@@ -579,14 +571,13 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 新疆卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9276&tk=a0c4f6cfaba3
 新疆卫视,http://www.7891136.xyz
 新疆卫视,http://139.196.214.238/rtp/239.45.1.116:5140
-新疆卫视,http://139.129.231.228
 新疆卫视,http://139.196.151.191
+新疆卫视,http://www.aadii.top
 兵团卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439
 兵团卫视,https://hyf.serv00.net/fg/兵团卫视.php
 兵团卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6734&tk=a0c4f6cfaba3
 兵团卫视,http://www.7891136.xyz
 兵团卫视,http://139.196.214.238/rtp/239.45.1.117:5140
-兵团卫视,http://139.129.231.228
 兵团卫视,http://139.196.151.191/rtp/239.45.1.117:5140
 兵团卫视,http://www.aadii.top
 兵团卫视,http://xxx.504900.xyz
@@ -596,29 +587,28 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 西藏卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3771&tk=a0c4f6cfaba3
 西藏卫视,http://www.7891136.xyz
 西藏卫视,http://139.196.214.238/rtp/239.45.1.231:5140
-西藏卫视,http://139.129.231.228
+西藏卫视,http://139.196.151.191/rtp/239.45.1.231:5140
 西藏卫视,http://120.55.49.231
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
-西藏卫视,http://139.196.151.191/rtp/239.45.1.231:5140
 西藏卫视,http://www.aadii.top
 西藏卫视,http://xxx.504900.xyz
+西藏卫视,http://api2.52tb.xyz/info?id=52&token=20230326xflvzc
 海南卫视,http://j.x.bkpcp.top/jx/HAINHD
 海南卫视,http://z.b.bkpcp.top/m.php?id=hinws
 海南卫视,http://tvpull.careryun.com/tv/hainws.m3u8
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 海南卫视,http://tvbox6.icu/tv/migu.php?id=hinws
 海南卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0389&tk=a0c4f6cfaba3
-海南卫视,https://www.yangshipin.cn/tv/home?pid=600002506###WEB\\n
 海南卫视,http://www.7891136.xyz
+海南卫视,https://www.yangshipin.cn/tv/home?pid=600002506###WEB\\n
 海南卫视,http://139.196.214.238/rtp/239.45.1.81:5140
-海南卫视,http://139.129.231.228/rtp/239.21.2.14:5002
 海南卫视,http://139.196.151.191/rtp/239.45.1.81:5140
+海南卫视,http://120.55.49.231
 海南卫视,http://www.aadii.top
-海南卫视,http://xxx.504900.xyz
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 三沙卫视,http://php.jdshipin.com
 三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5015&tk=a0c4f6cfaba3
 三沙卫视,http://139.196.214.238/rtp/239.45.1.82:5140
-三沙卫视,http://139.129.231.228
 三沙卫视,http://139.196.151.191
 三沙卫视,http://xxx.504900.xyz
 内蒙古卫视,http://z.b.bkpcp.top/m.php?id=nmws
@@ -629,10 +619,10 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 内蒙古卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0816&tk=a0c4f6cfaba3
 内蒙古卫视,http://www.7891136.xyz
 内蒙古卫视,http://139.196.214.238/rtp/239.45.1.238:5140
-内蒙古卫视,http://139.129.231.228
-内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 内蒙古卫视,http://139.196.151.191
+内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 内蒙古卫视,http://www.aadii.top
+内蒙古卫视,http://xxx.504900.xyz
 厦门卫视,http://r.jdshipin.com/p8dEo
 厦门卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000058
 厦门卫视,http://nn.7x9d.cn/小曾8563/酒店秒开.php?id=xmws
@@ -640,7 +630,6 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 厦门卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7784&tk=a0c4f6cfaba3
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8
 厦门卫视,http://www.7891136.xyz
-厦门卫视,http://139.129.231.228
 厦门卫视,http://www.aadii.top
 宁夏卫视,http://j.x.bkpcp.top/jx/NXWS
 宁夏卫视,http://goo.bkpcp.top/mg/nxws
@@ -659,13 +648,13 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 甘肃卫视,http://z.b.bkpcp.top/m.php?id=gsws
 甘肃卫视,http://tvpull.careryun.com/tv/cn_gsws.m3u8
 甘肃卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225633
-甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
 甘肃卫视,http://tvbox6.icu/tv/migu.php?id=gsws
 甘肃卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6110&tk=a0c4f6cfaba3
 甘肃卫视,http://www.7891136.xyz
 甘肃卫视,http://139.196.214.238/rtp/239.45.1.234:5140
-甘肃卫视,http://139.129.231.228
+甘肃卫视,http://139.196.151.191
 甘肃卫视,http://www.aadii.top
+甘肃卫视,http://xxx.504900.xyz
 青海卫视,http://j.x.bkpcp.top/jx/QHWS
 青海卫视,http://goo.bkpcp.top/mg/qhws
 青海卫视,http://z.b.bkpcp.top/m.php?id=qhws
@@ -677,7 +666,7 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 青海卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9745&tk=a0c4f6cfaba3
 青海卫视,http://www.7891136.xyz
 青海卫视,http://139.196.214.238/rtp/239.45.1.230:5140
-青海卫视,http://app.baiyels.com
+青海卫视,http://www.aadii.top
 山西卫视,http://z.b.bkpcp.top/m.php?id=sxws
 山西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225624
 山西卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9041&tk=a0c4f6cfaba3
@@ -727,19 +716,17 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 莲花卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4495&tk=e640d0a1bf70
 莲花卫视,http://nettvpro.live/hls/lotustv.php
 香港卫视,https://hyf.serv00.net/fg/香港卫视.php
-香港卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 香港卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hkphoenix_twn/playlist.m3u8
+香港卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0###HLS\\n
 香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 魅力时尚,http://tvbox6.icu/tv/gdmzyd.php?id=110
 纪实人文,http://139.196.214.238/rtp/239.45.3.212:5140
-纪实人文,http://139.129.231.228/rtp/239.21.1.195:5002
 纪实人文,http://139.196.151.191/rtp/239.45.3.212:5140
 山东教育,http://goo.bkpcp.top/mg/sdjy
 山东教育,http://z.b.bkpcp.top/m.php?id=sdjy
 山东教育,http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 山东教育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0563&tk=a0c4f6cfaba3
-山东教育,http://139.129.231.228/rtp/239.21.1.169:5002
 黑龙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0482&tk=aa0698566417
 哈尔滨综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
@@ -769,7 +756,6 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 徐州新闻综合,http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
 优漫卡通频道,http://tvbox6.icu/tv/migu.php?id=ymkt
 优漫卡通频道,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5382&tk=a0c4f6cfaba3
-优漫卡通频道,http://139.129.231.228
 
 儿童专享,#genre#
 卡酷少儿,http://php.jdshipin.com/itv6.php?cid=bestzb&id=7851974109718180595
@@ -777,30 +763,26 @@ CCTV俄语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9626&tk=a0c4f6cfaba3
 哈哈炫动,http://php.jdshipin.com
 哈哈炫动,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4902&tk=f6cc1e0a0e1a
 哈哈炫动,http://139.196.214.238/rtp/239.45.1.55:5140
-哈哈炫动,http://139.129.231.228
-哈哈炫动,http://120.55.49.231
 哈哈炫动,http://139.196.151.191/rtp/239.45.1.55:5140
+哈哈炫动,http://120.55.49.231
 金鹰卡通,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040024
 金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287
 金鹰卡通,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1792&tk=a0c4f6cfaba3
 金鹰卡通,http://139.196.214.238/rtp/239.45.3.118:5140
-金鹰卡通,http://139.129.231.228
-金鹰卡通,http://120.55.49.231
 金鹰卡通,http://139.196.151.191
+金鹰卡通,http://120.55.49.231
 优漫卡通,http://tvbox6.icu/tv/migu.php?id=ymkt
 优漫卡通,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5382&tk=a0c4f6cfaba3
-优漫卡通,http://139.129.231.228
 嘉佳卡通,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010102
 嘉佳卡通,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6540&tk=e640d0a1bf70
-嘉佳卡通,http://139.129.231.228
 嘉佳卡通,http://139.196.151.191
 嘉佳卡通,http://120.77.28.4
 广东少儿,http://php.jdshipin.com
 动漫秀场,http://php.jdshipin.com
 动漫秀场,http://tvbox6.icu/tv/gdmzyd.php?id=83
 动漫秀场,http://139.196.214.238/rtp/239.45.3.134:5140
-动漫秀场,http://120.55.49.231
 动漫秀场,http://139.196.151.191/rtp/239.45.3.134:5140
+动漫秀场,http://120.55.49.231
 哒啵电竞,http://php.jdshipin.com
 哒啵电竞,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4150&tk=abed47f08529
 黑莓动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1713&tk=e640d0a1bf70
@@ -821,7 +803,7 @@ CCTV14少儿,https://api.olelive.com/dis/live/CCTV14HD/hls.m3u8
 CCTV14少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9735&tk=a0c4f6cfaba3
 CCTV14少儿,http://www.7891136.xyz
 CCTV14少儿,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
-CCTV14少儿,http://app.baiyels.com
+CCTV14少儿,http://www.aadii.top
 SITV法治天地,http://z.b.bkpcp.top/m.php?id=fztd
 哆啦A梦,http://cdn.jdshipin.com
 哆啦A梦,http://120.77.28.4
@@ -831,14 +813,15 @@ SITV法治天地,http://z.b.bkpcp.top/m.php?id=fztd
 游戏风云,http://tvbox6.icu/tv/migu.php?id=yxfy
 游戏风云,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0002&tk=f6cc1e0a0e1a
 游戏风云,http://139.196.214.238/rtp/239.45.3.131:5140
-游戏风云,http://120.55.49.231
 游戏风云,http://139.196.151.191
+游戏风云,http://120.55.49.231
 电竞天堂,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8479&tk=bd38c03a3ce1
 青春动漫,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8899&tk=bd38c03a3ce1
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7710&tk=b53028476470
 浙江少儿,http://120.55.49.231
+海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 靖天卡通,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/jingtiancartoon_twn/playlist.m3u8
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 漫画解说,https://lunbo.freetv.top/yy/1382735568
@@ -876,19 +859,17 @@ CCTV世界地理,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3042&tk=f6cc1e0a0e1a
 欢笑剧场,http://tvbox6.icu/tv/gdmzyd.php?id=98
 欢笑剧场,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7710&tk=a0c4f6cfaba3
 欢笑剧场,http://139.196.214.238/rtp/239.45.3.196:5140
-欢笑剧场,http://120.55.49.231
 欢笑剧场,http://139.196.151.191/rtp/239.45.3.196:5140
+欢笑剧场,http://120.55.49.231
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 金鹰纪实,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031203
 金鹰纪实,http://tvbox6.icu/tv/mgtv.php?id=316
 金鹰纪实,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4677&tk=a0c4f6cfaba3
 金鹰纪实,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/JYJSMPP360.m3u8
 金鹰纪实,http://139.196.214.238/rtp/239.45.1.45:5140
-金鹰纪实,http://139.129.231.228
 金鹰纪实,http://139.196.151.191/rtp/239.45.1.45:5140
 嘉佳卡通,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010102
 嘉佳卡通,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6540&tk=e640d0a1bf70
-嘉佳卡通,http://139.129.231.228
 嘉佳卡通,http://139.196.151.191
 嘉佳卡通,http://120.77.28.4
 CCTV兵器科技,http://php.jdshipin.com
@@ -934,20 +915,20 @@ SiTV乐游,http://z.b.bkpcp.top/m.php?id=ly
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2277&tk=e640d0a1bf70
-广东珠江,http://app.baiyels.com
 广东珠江,http://205.185.120.154
+广东珠江,http://app.baiyels.com
 广东珠江,http://iptv.0564.org
 睛彩竞技,http://tvbox6.icu/tv/zb/zjctcc.php?id=343
 睛彩竞技,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0026&tk=a0c4f6cfaba3
-睛彩竞技,http://app.baiyels.com
 睛彩竞技,http://205.185.120.154
+睛彩竞技,http://app.baiyels.com
 睛彩竞技,http://111.170.172.113
 睛彩竞技,http://iptv.0564.org
 睛彩篮球,http://tvbox6.icu/tv/zb/zjctcc.php?id=344
 睛彩篮球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6178&tk=a0c4f6cfaba3
-睛彩篮球,http://app.baiyels.com
 睛彩篮球,http://205.185.120.154
 睛彩篮球,http://xxx.504900.xyz
+睛彩篮球,http://app.baiyels.com
 睛彩篮球,http://iptv.0564.org
 中央新影-老故事,http://goo.bkpcp.top/mg/lgs
 中央新影-老故事,http://z.b.bkpcp.top/m.php?id=lgs
@@ -967,16 +948,16 @@ SiTV乐游,http://z.b.bkpcp.top/m.php?id=ly
 游戏风云,http://tvbox6.icu/tv/migu.php?id=yxfy
 游戏风云,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0002&tk=f6cc1e0a0e1a
 游戏风云,http://139.196.214.238/rtp/239.45.3.131:5140
-游戏风云,http://120.55.49.231
 游戏风云,http://139.196.151.191
+游戏风云,http://120.55.49.231
 法治天地,http://139.196.214.238/rtp/239.45.1.46:5140
-法治天地,http://120.55.49.231
 法治天地,http://139.196.151.191/rtp/239.45.1.46:5140
+法治天地,http://120.55.49.231
 都市剧场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031111
 都市剧场,http://tvbox6.icu/tv/gdmzyd.php?id=99
 都市剧场,http://139.196.214.238/rtp/239.45.3.136:5140
-都市剧场,http://120.55.49.231
 都市剧场,http://139.196.151.191/rtp/239.45.3.136:5140
+都市剧场,http://120.55.49.231
 新视觉,http://php.jdshipin.com/bestv.php?id=xsjhd/4000000
 新视觉,http://tvbox6.icu/tv/gdmzyd.php?id=97
 新视觉,http://120.55.49.231
@@ -1004,7 +985,6 @@ SiTV乐游,http://z.b.bkpcp.top/m.php?id=ly
 热播剧场,http://tvbox6.icu/tv/gdmzyd.php?id=111
 中国气象,http://tvbox6.icu/tv/iptv2.php?id=87
 上海纪实,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0127&tk=abed47f08529
-上海纪实,http://139.129.231.228/rtp/239.21.1.171:5002
 全纪实,http://139.196.214.238/rtp/239.45.3.135:5140
 全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
 
@@ -1018,19 +998,19 @@ SiTV乐游,http://z.b.bkpcp.top/m.php?id=ly
 爱幼教,http://php.jdshipin.com
 爱院线,http://php.jdshipin.com
 求索生活,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3433&tk=a0c4f6cfaba3
-求索生活,http://app.baiyels.com
 求索生活,http://205.185.120.154
 求索生活,http://xxx.504900.xyz
+求索生活,http://app.baiyels.com
 求索生活,http://iptv.0564.org
 求索动物,http://php.jdshipin.com
-求索动物,http://app.baiyels.com
 求索动物,http://205.185.120.154
 求索动物,http://xxx.504900.xyz
+求索动物,http://app.baiyels.com
 求索动物,http://iptv.0564.org
 求索科学,http://php.jdshipin.com
-求索科学,http://app.baiyels.com
 求索科学,http://205.185.120.154
 求索科学,http://xxx.504900.xyz
+求索科学,http://app.baiyels.com
 求索科学,http://111.170.172.113
 求索科学,http://iptv.0564.org
 动作电影,http://php.jdshipin.com
@@ -1046,8 +1026,8 @@ SiTV乐游,http://z.b.bkpcp.top/m.php?id=ly
 
 香港澳门,#genre#
 香港卫视,https://hyf.serv00.net/fg/香港卫视.php
-香港卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 香港卫视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hkphoenix_twn/playlist.m3u8
+香港卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0###HLS\\n
 香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
@@ -1055,7 +1035,9 @@ SiTV乐游,http://z.b.bkpcp.top/m.php?id=ly
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://120.55.49.231
 凤凰中文,http://xubo0712.asuscomm.cn
+凤凰中文,http://mmitv.top/pltv/source.php?id=凤凰中文&user=t0f36p&st=2ee5c784&et=2ee65984&np=1bdjn59n&isp=mobile&token=46b9a95c&tag=live
 凤凰中文,http://65.108.74.147
+凤凰中文,http://139.196.228.200
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5282&tk=2aca1ad9a849
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
@@ -1066,6 +1048,7 @@ SiTV乐游,http://z.b.bkpcp.top/m.php?id=ly
 凤凰香港,https://live.hkdvb.com/hls/live/85.m3u8?token=631170156107453
 凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a2092354
 凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3523&tk=7877e7cc41c7
+凤凰香港,http://mmitv.top/pltv/source.php?id=凤凰香港&user=t0f36p&st=2ee5c784&et=2ee65984&np=1bdjn59n&isp=mobile&token=05c3094d&tag=live
 凤凰香港,http://65.108.74.147
 凤凰资讯台,http://r.jdshipin.com/0Rp07
 凤凰资讯台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5282&tk=2aca1ad9a849
@@ -1077,21 +1060,25 @@ SiTV乐游,http://z.b.bkpcp.top/m.php?id=ly
 凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文台,http://120.55.49.231
 凤凰中文台,http://xubo0712.asuscomm.cn
+凤凰中文台,http://mmitv.top/pltv/source.php?id=凤凰中文&user=t0f36p&st=2ee5c784&et=2ee65984&np=1bdjn59n&isp=mobile&token=46b9a95c&tag=live
 凤凰中文台,http://65.108.74.147
+凤凰中文台,http://139.196.228.200
 翡翠台,http://go1.bkpcp.top/tl/null
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
-翡翠台,https://bxtvcdn.587788.xyz/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 翡翠台,https://live.hkdvb.com/hls/live/800.m3u8?token=631170156107453
 翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0401&tk=2aca1ad9a849
 翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
+翡翠台,http://mmitv.top/pltv/source.php?id=翡翠台&user=t0f36p&st=2ee5c784&et=2ee65984&np=1bdjn59n&isp=mobile&token=e4903aa1&tag=live
 翡翠台,rtmp://27.223.28.254
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2###HLS\\n
 TVB星河,http://go1.bkpcp.top/tl/null-7
 TVB星河,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7099&tk=e503191f8e20
+TVB星河,http://mmitv.top/pltv/source.php?id=TVB星河&user=t0f36p&st=2ee5c784&et=2ee65984&np=1bdjn59n&isp=mobile&token=e74019d9&tag=live
 TVB星河,http://65.108.74.147
 明珠台,http://php.jdshipin.com
 明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
 明珠台,https://live.hkdvb.com/hls/live/84.m3u8?token=245492868516952
+明珠台,http://mmitv.top/pltv/source.php?id=明珠台&user=t0f36p&st=2ee5c784&et=2ee65984&np=1bdjn59n&isp=mobile&token=f65329c9&tag=live
 无线新闻台,http://r.jdshipin.com/CkuBd
 无线新闻台,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 无线新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=2
@@ -1099,7 +1086,6 @@ TVB星河,http://65.108.74.147
 无线新闻台,https://live.hkdvb.com/hls/live/83.m3u8?token=275839252942857
 无线新闻台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1565&tk=e640d0a1bf70
 18台,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c047ca8a72962dc53aa5a0/playlist.m3u8
-18台,http://jexi.kalbimtv.cn/wangyi.php?id=1FE4D279B2434C469D72110DCE8A3333
 天映经典,http://go1.bkpcp.top/tl/null-1
 天映经典,https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
@@ -1112,8 +1098,8 @@ ANIMAX,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Animax/pl
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w1736216878.m3u8
 美亚电影台,http://go1.bkpcp.top/tl/null-5
-美亚电影台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/meiyamovie_twn/playlist.m3u8
 美亚电影台,http://ku9.fr.to/smt.php?id=meiyamovie_twn
+美亚电影台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/meiyamovie_twn/playlist.m3u8
 美亚电影台,https://live.hkdvb.com/hls/live/201.m3u8?token=275839252942857
 美亚电影台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2594&tk=e503191f8e20
 澳视澳门台,http://php.jdshipin.com/TVOD/iptv.php?id=asam
@@ -1131,16 +1117,16 @@ ANIMAX,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Animax/pl
 中天新闻,rtmp://patrol.psn.asia/live/zt
 中天新闻,rtmp://sy.ecoheze.com/live/zt
 中天新闻,rtmp://mes-test.uqirobot.com/live/zt
-寰宇新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/huanyuxinwen_twn/playlist.m3u8
 寰宇新闻,http://ku9.fr.to/smt.php?id=huanyuxinwen_twn
+寰宇新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/huanyuxinwen_twn/playlist.m3u8
 寰宇新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3002&tk=e503191f8e20
 寰宇新闻,rtmp://sz.gw-ocean.com/live/hy
 寰宇新闻,rtmp://patrol.psn.asia/live/hy
 寰宇新闻,rtmp://sy.ecoheze.com/live/hy
 寰宇新闻,rtmp://mes-test.uqirobot.com/live/hy
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
-台视新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttvnews_twn/playlist.m3u8
 台视新闻,http://ku9.fr.to/smt.php?id=ttvnews_twn
+台视新闻,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ttvnews_twn/playlist.m3u8
 台视新闻,rtmp://sz.gw-ocean.com/live/ts
 台视新闻,rtmp://patrol.psn.asia/live/ts
 台视新闻,rtmp://sy.ecoheze.com/live/ts
@@ -1156,24 +1142,21 @@ TVBS欢乐,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbsh
 东森新闻,rtmp://sz.gw-ocean.com/live/ds
 东森新闻,rtmp://patrol.psn.asia/live/ds
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
-东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvsuper/playlist.m3u8
 东森超视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9639&tk=e640d0a1bf70
 东森电影,http://go1.bkpcp.top/tl/null-11
 东森电影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ettvmovie/playlist.m3u8
 东森电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9901&tk=e640d0a1bf70
-民视,rtmp://f13h.mine.nu/sat/tv051
 民视,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvhd_taiwan/playlist.m3u8
 民视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6207&tk=e640d0a1bf70
 民视,rtmp://220.130.201.73/sat/tv051
-民视台湾台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvtaiwan_twn/playlist.m3u8
 民视台湾台,http://ku9.fr.to/smt.php?id=ftvtaiwan_twn
-台视,rtmp://f13h.mine.nu/sat/tv071
+民视台湾台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ftvtaiwan_twn/playlist.m3u8
 台视,rtmp://220.130.201.73/sat/tv071
 三立都会,http://ku9.fr.to/smt.php?id=sanlidouhui
-三立戏剧,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlixiju_twn/playlist.m3u8
 三立戏剧,http://ku9.fr.to/smt.php?id=sanlixiju_twn
+三立戏剧,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/sanlixiju_twn/playlist.m3u8
 三立戏剧,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6103&tk=e640d0a1bf70
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
@@ -1182,18 +1165,16 @@ TVBS欢乐,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbsh
 无线新闻,https://live.hkdvb.com/hls/live/83.m3u8?token=275839252942857
 无线新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1565&tk=e640d0a1bf70
 纬来电影,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandmovie_twn/playlist.m3u8
-纬来日本,rtmp://f13h.mine.nu/sat/tv771###HLS\\n
+纬来电影,https://idx.gdplayertv.to/live-tv/videoland-movie/?embed=1###WEB\\n
 纬来日本,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandjapan/playlist.m3u8
-纬来体育,rtmp://f13h.mine.nu/sat/tv721###HLS\\n
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-纬来体育,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport
+纬来体育,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
 纬来体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1978&tk=e640d0a1bf70
 纬来体育,rtmp://220.130.201.73/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来育乐,rtmp://220.130.201.73/sat/tv701
-中天亚洲台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctiasia_twn/playlist.m3u8
 中天亚洲台,http://ku9.fr.to/smt.php?id=ctiasia_twn
+中天亚洲台,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/ctiasia_twn/playlist.m3u8
 中天亚洲台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8643&tk=e503191f8e20
 中天亚洲台,http://newlife3.wanicelife.com
 龙华偶像,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/lunghuaidol_twn/playlist.m3u8
@@ -1204,7 +1185,6 @@ TVBS欢乐,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbsh
 成龙,http://zzy789.xyz/douyu1.php?id=3379942
 周星驰,https://cdn.jdshipin.com
 周星驰,http://lxajh.top/tv/douyu.php?id=122402
-李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
 刘德华,http://cdn.jdshipin.com
 林正英 1,http://zzy789.xyz/douyu1.php?id=7356023
 林正英 2,http://zzy789.xyz/douyu1.php?id=218859
@@ -1244,7 +1224,6 @@ TVBS欢乐,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbsh
 神雕侠侣,http://120.77.28.4
 大时代,https://lunbo.freetv.top/yy/1354930891
 康熙微服私访记,http://cdn.jdshipin.com
-康熙微服私访记,http://zby.xjqxz.top/kxwfxhj/live.m3u8
 芈月传,http://cdn.jdshipin.com
 封神榜,https://lunbo.freetv.top/yy/1353426319
 封神榜,http://120.77.28.4
@@ -1277,7 +1256,6 @@ TVBS欢乐,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/tvbsh
 仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903
 狂飙,https://lunbo.freetv.top/yy/1355142167
 与凤行,http://cdn.jdshipin.com
-琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
 无间道2,https://alimov2.a.kwimgs.com/upic/2021/02/09/10/BMjAyMTAyMDkxMDQ0NThfNDAzMDAxOTlfNDM4NTkyODc0MjhfMF8z_b_Bce206fcc2f84121a4d887259d7c5100b.mp4
 隋唐英雄传,http://zzy789.xyz/douyu1.php?id=7552568
 隋唐英雄传,http://120.77.28.4
@@ -1406,7 +1384,7 @@ CCTV5体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3713&tk=a0c4f6cfaba3
 CCTV5体育,http://www.7891136.xyz
 CCTV5体育,http://111.9.163.109
 CCTV5体育,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
-CCTV5体育,http://app.baiyels.com
+CCTV5体育,http://www.aadii.top
 CCTV5+体育赛事,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv5p
 CCTV5+体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p⁭
 CCTV5+体育赛事,http://goo.bkpcp.top/mg/cctv5p
@@ -1417,8 +1395,8 @@ CCTV5+体育赛事,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 CCTV5+体育赛事,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6216&tk=a0c4f6cfaba3
 CCTV5+体育赛事,http://www.7891136.xyz
 CCTV5+体育赛事,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
-CCTV5+体育赛事,http://app.baiyels.com
 CCTV5+体育赛事,http://www.aadii.top
+CCTV5+体育赛事,http://205.185.120.154
 CCTV16奥林匹克,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv16
 CCTV16奥林匹克,http://z.b.bkpcp.top/m.php?id=cctv16
 CCTV16奥林匹克,http://goo.bkpcp.top/mg/cctv16
@@ -1426,11 +1404,11 @@ CCTV16奥林匹克,http://php.jdshipin.com
 CCTV16奥林匹克,https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8
 CCTV16奥林匹克,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2560&tk=a0c4f6cfaba3
 CCTV16奥林匹克,http://www.7891136.xyz
-CCTV16奥林匹克,http://139.129.231.228
 CCTV16奥林匹克,http://120.55.49.231
 CCTV16奥林匹克,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
-CCTV16奥林匹克,http://app.baiyels.com
 CCTV16奥林匹克,http://www.aadii.top
+CCTV16奥林匹克,http://205.185.120.154
+CCTV16奥林匹克,http://xxx.504900.xyz
 睛彩广场舞,http://tvbox6.icu/tv/zb/zjctcc.php?id=345
 睛彩羽毛球,http://tvbox6.icu/tv/zb/zjctcc.php?id=346
 睛彩羽毛球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0009&tk=b53028476470
@@ -1438,14 +1416,11 @@ CCTV16奥林匹克,http://www.aadii.top
 魅力足球,http://tvbox6.icu/tv/migu.php?id=mlzq
 魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8920&tk=a0c4f6cfaba3
 魅力足球,http://xxx.504900.xyz
-纬来体育,rtmp://f13h.mine.nu/sat/tv721###HLS\\n
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-纬来体育,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport
+纬来体育,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
 纬来体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1978&tk=e640d0a1bf70
 纬来体育,rtmp://220.130.201.73/sat/tv721
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
 电影频道,#genre#
 CCTV6电影频道,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv6
@@ -1503,12 +1478,10 @@ HBO（美）,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbo
 广州影视,http://r.jdshipin.com/TcKr2
 广州影视,http://nas.jdshipin.com
 广州影视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4622&tk=a0c4f6cfaba3
-广州影视,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
 广州电视台影视频道,http://php.jdshipin.com
 广州电视台影视频道,http://r.jdshipin.com/TcKr2
 广州电视台影视频道,http://nas.jdshipin.com
 广州电视台影视频道,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4622&tk=a0c4f6cfaba3
-广州电视台影视频道,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
 南宁影视娱乐频道,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁影视娱乐频道,https://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 泰州三套影视娱乐频道,http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=16dfe82d1725409426
@@ -1611,8 +1584,8 @@ iHOT爱体育,http://php.jdshipin.com
 游戏风云,http://tvbox6.icu/tv/migu.php?id=yxfy
 游戏风云,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0002&tk=f6cc1e0a0e1a
 游戏风云,http://139.196.214.238/rtp/239.45.3.131:5140
-游戏风云,http://120.55.49.231
 游戏风云,http://139.196.151.191
+游戏风云,http://120.55.49.231
 哒啵电竞,http://php.jdshipin.com
 哒啵电竞,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4150&tk=abed47f08529
 电竞天堂,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8479&tk=bd38c03a3ce1
